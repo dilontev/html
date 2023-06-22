@@ -14,4 +14,10 @@ h1 {
 	margin-bottom: 60px;
 	padding-bottom: 60px;
 	padding-left: 20px;
+	text-shadow: green 5px 5px 5px;
+}
+.paragraph-3 {
+        font-size: 24pt;
+	font-style: oblique;
+	text-align: center
 }
